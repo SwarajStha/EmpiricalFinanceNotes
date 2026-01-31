@@ -54,6 +54,7 @@ $\beta = \frac{0.18 - 0.06}{0.08} = 1.5$"
 **From Exercise 4, Task 2 Question 2 (Slide 14-15):**
 
 "A security currently costs $50 and has an expected return of 14%. If its correlation with the market portfolio doubles (all else equal)?
+(Risk-free rate = 6%, market risk premium = 8.5%)
 
 Formula CAPM for a portfolio:
 
